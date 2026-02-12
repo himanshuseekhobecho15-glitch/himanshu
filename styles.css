@@ -1,0 +1,45 @@
+/*
+ * Styles for the Cricket Club website
+ */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #0056b3;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: #003366;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+}
